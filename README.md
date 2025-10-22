@@ -30,7 +30,8 @@ EXPLAIN
 
 EXPLAIN ANALYZE
 
-<img width="1191" height="220" alt="Screenshot 2025-10-22 144257" src="https://github.com/user-attachments/assets/610d1f6b-556a-4947-924b-f4e70d7c1728" />
+<img width="1301" height="248" alt="Screenshot 2025-10-22 150430" src="https://github.com/user-attachments/assets/97f120e6-4e9b-4fa9-9ab7-679690b8e625" />
+
 
 
 ## 3. Optimized query
@@ -49,7 +50,7 @@ EXPLAIN ANALYZE
 <img width="1068" height="190" alt="Screenshot 2025-10-22 144549" src="https://github.com/user-attachments/assets/eb9c538c-e3bc-4c4a-a2ee-f8c1ce5ba5e9" />
 
 
-After optimization, the query runs approximately 1.8 times faster.
+
 
 
 ## 4. MySQL optimizer hints
